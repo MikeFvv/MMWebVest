@@ -51,11 +51,16 @@
 #define kHomeViewSpacing kUIScreenWidth_Scale_iPhone6(18)
 // 灰白色
 #define kFakePageMainColor [UIColor colorWithRed: 0.937 green: 0.937 blue: 0.957 alpha: 1]
-// 粉红色
-#define kColorPink [UIColor colorWithRed: 1 green: 0.494 blue: 0.482 alpha: 1]
+// 粉红色  导航栏字体颜色
+#define kColorPink [UIColor colorWithRed: 1 green: 0.949 blue: 0.953 alpha: 1]
 
 /** 手机归属地查询 秘钥 －－－－－apikey*/
 #define apikey  @"2b8b3da87db542f4900e4102f93dba6a"
+
+
+// 导航栏颜色
+#define APPCOLOR [UIColor colorWithRed: 1 green: 0.2 blue: 0.2 alpha: 1]
+
 
 
 

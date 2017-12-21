@@ -47,7 +47,7 @@
     self.view.backgroundColor = kFakePageMainColor;
   
     //设置导航条颜色
-    [self.navigationController.navigationBar setBackgroundImage:[UIImage gxz_imageWithColor: [UIColor colorWithRed: 0.953 green: 0.51 blue: 0.318 alpha: 1]] forBarMetrics:UIBarMetricsDefault];
+    [self.navigationController.navigationBar setBackgroundImage:[UIImage gxz_imageWithColor: APPCOLOR] forBarMetrics:UIBarMetricsDefault];
     
     //设置状态栏字体颜色
     self.navigationController.navigationBar.barStyle = UIBarStyleDefault;

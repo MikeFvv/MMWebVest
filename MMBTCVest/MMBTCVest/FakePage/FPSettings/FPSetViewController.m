@@ -31,7 +31,7 @@
     _dataArray = @[@"反馈",@"关于"];
     _imagArray = @[@"fp_feedback.png",@"fp_about.png"];
     
-    self.navigationController.navigationBar.barTintColor = [UIColor colorWithRed: 0.953 green: 0.51 blue: 0.318 alpha: 1];
+    self.navigationController.navigationBar.barTintColor = APPCOLOR;
     
     //设置导航栏文字颜色
     self.navigationController.navigationBar.titleTextAttributes = [NSDictionary dictionaryWithObject:kColorPink forKey:NSForegroundColorAttributeName];

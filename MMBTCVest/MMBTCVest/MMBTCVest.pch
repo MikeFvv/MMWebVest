@@ -1,0 +1,15 @@
+//
+//  MMBTCVest.pch
+//  MMBTCVest
+//
+//  Created by Mike on 2017/12/21.
+//  Copyright © 2017年 Mike. All rights reserved.
+//
+
+#ifndef MMBTCVest_pch
+#define MMBTCVest_pch
+
+#import "FakePageMacros.h"
+#import "AppMacros.h"
+
+#endif /* MMBTCVest_pch */

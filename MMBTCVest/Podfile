@@ -1,0 +1,10 @@
+
+
+platform :ios, '8.0'
+
+target 'MMBTCVest' do
+    
+    # 不需要带版本号
+    pod 'JPush'
+    
+end
